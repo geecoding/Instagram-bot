@@ -7,4 +7,4 @@ it is very easy to run this code.
 you just need to copy paste it.
 
 and please comment ds[user] as shown in the video.
-https://youtube/Zd4MpUK8E2g
+https://youtu.be/Zd4MpUK8E2g
