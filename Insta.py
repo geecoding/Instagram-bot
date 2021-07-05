@@ -9,4 +9,4 @@ bot.send_message(text = "", user_ids = [""]) #your message content and user ids 
 bot.upload_photo("", captions = "") #your photo path like "F:/FF/FF" and captions is the title of the photo
 
 #Please subscribe 
-#https://youtube/Zd4MpUK8E2g
+#https://youtu.be/Zd4MpUK8E2g
